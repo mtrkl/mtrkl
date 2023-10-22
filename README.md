@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 Hello! I'm Mehmet, I'm currently a student at Kozmos Software Engineering Anatolian High School.
 I started learning programming when I was around 11-12, starting out with C. I was gifted `The C Programming Language (ANSI C)` book for my birthday. (An original copy!)
@@ -27,7 +27,7 @@ If I could describe myself in a quote, it would be:
 > 
 >  *- Rasmus Lerdorf, Creator of PHP*
 
-## Certifications
+### Certifications
 
 > C1 English
 > 
